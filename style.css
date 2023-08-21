@@ -1,0 +1,90 @@
+/*https://coolors.co/1f2421-216869-49a078-9cc5a1-dce1de*/
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2em;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #1F2421;
+}
+
+header {
+  background-color: #216869;
+  color: #fff;
+  text-align: center;
+  padding: 1em 0;
+}
+
+h1.titleh1 {
+  color: #216869;
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+  margin-left: 20%;
+}
+
+a {
+  color: #216869;
+  font-family: 'Roboto Mono', monospace;
+  text-decoration: none;
+}
+
+a.projecten {
+  text-decoration: underline;
+}
+
+
+.phoneheader {
+  color: #dce1de;
+  margin-top: 5vh;
+}
+
+a.header {
+  margin-top: 5vh;
+  margin-left: 3vw;
+}
+
+
+hr {
+  border: none;
+  height: 3px;
+  background-color: #43b31e;
+  margin-bottom: 60px;
+}
+
+hr.small {
+  width: 16vw;
+}
+
+img.centerimg {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  width: 25vw;
+}
+
+div {
+  width: 50vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1.title {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 25px;
+}
